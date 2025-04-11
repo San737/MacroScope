@@ -1,7 +1,7 @@
 
 import React, { useState, useRef } from 'react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
-import { Button } from '@/components/ui/card';
+import { Button } from '@/components/ui/button';
 import { 
   Select, 
   SelectContent, 
